@@ -75,11 +75,6 @@ It also computes:
 
 ---
 
-## 📸 Demo
-
-*(Add screenshots here if you want)*
-
----
 
 ## 📌 Future Improvements
 
